@@ -1,0 +1,2 @@
+- [入门之旅](https://wiki.eryajf.net/pages/6ed7fe/#%E7%9B%AE%E5%BD%95%E7%AE%80%E4%BB%8B)
+- [通过索引建立自己的知识库-b站即凉](https://www.bilibili.com/video/BV1P64y1q7ND?spm_id_from=333.999.0.0)
