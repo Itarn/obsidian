@@ -6,6 +6,8 @@
 ##### 分析
 我们知道，await、async 是 ES6 出的语法糖，让我们可以用一种更简洁的方式写出基于[`Promise`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise)的异步行为，而无需刻意地链式调用`promise`。
 
+> 但注意，await、async 并不是 promise 的语法糖，await 是  then 函数的语法糖 ，async 是  Generator 函数的语法糖。[详见阮一峰博客](https://es6.ruanyifeng.com/?search=await&x=0&y=0#docs/async)
+
 ```js
 // 执行顺序 a=> b => c => d
 let sort = 0
